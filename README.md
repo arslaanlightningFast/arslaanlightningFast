@@ -1,5 +1,5 @@
 👋 Hi, I’m @arslaanlightningFast  
-- 👀 I’m interested in web development, software testing, and building reliable, user-friendly applications.
+-👀 I’m interested in web development, software testing, and building reliable, user-friendly applications.
 
 -🌱 I’m currently learning advanced JavaScript frameworks, automation testing, and performance optimization.
 
